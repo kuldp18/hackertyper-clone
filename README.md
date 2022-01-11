@@ -4,6 +4,8 @@ This project is a clone of [Hacker Typer](https://hackertyper.net) and was built
 
 ![hacker typer](./screenshots/hackertyper-original.png)
 
+### [Deployed App on Netlify](https://hackertyper-clone.netlify.app)
+
 ## Run it in your system
 
 In the project directory, you can run:
