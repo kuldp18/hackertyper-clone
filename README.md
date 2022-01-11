@@ -23,3 +23,7 @@ You may also see any lint errors in the console.
 Simply open the website, start typing on our keyboard and see the magic. When a message pops up, simply press Esc and you would be able to type again.
 
 ![acess granted](./screenshots/granted.png)
+
+## License
+
+MIT
